@@ -1,0 +1,8 @@
+{
+    "name": "TheTester",
+    "tag": "TheTester_v2",
+    "pilot": "Maicon",
+    "mainFile": "Robocode_to_Solutis/TheTester/TheTester.java",
+    "supportFiles": [
+        "Robocode_to_Solutis/TheTester/TheTester.class"]
+}
